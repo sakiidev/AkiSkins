@@ -1,0 +1,26 @@
+name: AkiSkins
+version: 1.0.0
+main: saki.skins.AkiSkins
+api-version: 1.13
+depend: [ProtocolLib]
+author: freestyleprime
+commands:
+  skin:
+    description: Comando principal de skins
+    usage: /<command> [jogador]
+    aliases: [skins]
+permissions:
+  orbskins.*:
+    default: op
+  orbskins.category.youtuber:
+    default: op
+  orbskins.category.staff:
+    default: op
+  orbskins.category.vip:
+    default: op
+  orbskins.category.eventos:
+    default: op
+  orbskins.category.especiais:
+    default: op
+  orbskins.category.comuns:
+    default: true

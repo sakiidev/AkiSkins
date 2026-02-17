@@ -1,0 +1,70 @@
+menu:
+  title: "&8&lSkins - {player}"
+  rows: 5
+  items:
+    youtuber:
+      slot: 10
+      material: "SKULL_ITEM:3"
+      skin: "eyJ0aW1lc3RhbXAiOjE1ODcxMzkyMDU4MzUsInByb2ZpbGVJZCI6Ijc1MTQ0NDgxOTFlNjQ1NDY4Yzk3MzlhNmUzOTU3YmViIiwicHJvZmlsZU5hbWUiOiJUaGFua3NNb2phbmciLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2JjY2M2MTU2NThhOGI0MGM3ZDNlNDU3ZmFhYzI4NzQ2Y2Q1YmU4M2I3NWFjN2JmN2M3ZDYyYTg5MjE3NTIyN2UifX19"
+      name: "&b&lYouTubers"
+      lore:
+        - "&7Skins exclusivas para"
+        - "&7criadores de conteúdo"
+        - ""
+        - "&eClique para ver"
+    staff:
+      slot: 11
+      material: "SKULL_ITEM:3"
+      skin: "eyJ0aW1lc3RhbXAiOjE1ODcxMzkyMDU4MzUsInByb2ZpbGVJZCI6Ijc1MTQ0NDgxOTFlNjQ1NDY4Yzk3MzlhNmUzOTU3YmViIiwicHJvZmlsZU5hbWUiOiJUaGFua3NNb2phbmciLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzI5YTUxYjI2YzUzYjE4YjU1ZTUyY2Q5YzI3MzU2YzFjYzQ5YzY5YzQ0YzI5YzI1YzY5YzQ0YzI5YzI1YzY5YyJ9fX0="
+      name: "&c&lStaff"
+      lore:
+        - "&7Skins exclusivas para"
+        - "&7membros da staff"
+        - ""
+        - "&eClique para ver"
+    vip:
+      slot: 12
+      material: "SKULL_ITEM:3"
+      skin: "eyJ0aW1lc3RhbXAiOjE1ODcxMzkyMDU4MzUsInByb2ZpbGVJZCI6Ijc1MTQ0NDgxOTFlNjQ1NDY4Yzk3MzlhNmUzOTU3YmViIiwicHJvZmlsZU5hbWUiOiJUaGFua3NNb2phbmciLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzNkYzQ5YzY5YzQ0YzI5YzI1YzY5YzQ0YzI5YzI1YzY5YzQ0YzI5YzI1YzY5YzQ0YzI5YzI1YzY5YyJ9fX0="
+      name: "&a&lVIP"
+      lore:
+        - "&7Skins exclusivas para"
+        - "&7jogadores VIP"
+        - ""
+        - "&eClique para ver"
+    eventos:
+      slot: 13
+      material: "SKULL_ITEM:3"
+      skin: "eyJ0aW1lc3RhbXAiOjE1ODcxMzkyMDU4MzUsInByb2ZpbGVJZCI6Ijc1MTQ0NDgxOTFlNjQ1NDY4Yzk3MzlhNmUzOTU3YmViIiwicHJvZmlsZU5hbWUiOiJUaGFua3NNb2phbmciLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzRkYzQ5YzY5YzQ0YzI5YzI1YzY5YzQ0YzI5YzI1YzY5YzQ0YzI5YzI1YzY5YzQ0YzI5YzI1YzY5YyJ9fX0="
+      name: "&6&lEventos"
+      lore:
+        - "&7Skins comemorativas"
+        - "&7de eventos especiais"
+        - ""
+        - "&eClique para ver"
+    especiais:
+      slot: 14
+      material: "SKULL_ITEM:3"
+      skin: "eyJ0aW1lc3RhbXAiOjE1ODcxMzkyMDU4MzUsInByb2ZpbGVJZCI6Ijc1MTQ0NDgxOTFlNjQ1NDY4Yzk3MzlhNmUzOTU3YmViIiwicHJvZmlsZU5hbWUiOiJUaGFua3NNb2phbmciLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzVkYzQ5YzY5YzQ0YzI5YzI1YzY5YzQ0YzI5YzI1YzY5YzQ0YzI5YzI1YzY5YzQ0YzI5YzI1YzY5YyJ9fX0="
+      name: "&d&lEspeciais"
+      lore:
+        - "&7Skins raras e"
+        - "&7edição limitada"
+        - ""
+        - "&eClique para ver"
+    comuns:
+      slot: 15
+      material: "SKULL_ITEM:3"
+      skin: "eyJ0aW1lc3RhbXAiOjE1ODcxMzkyMDU4MzUsInByb2ZpbGVJZCI6Ijc1MTQ0NDgxOTFlNjQ1NDY4Yzk3MzlhNmUzOTU3YmViIiwicHJvZmlsZU5hbWUiOiJUaGFua3NNb2phbmciLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubW1pbmVjcmFmdC5uZXQvdGV4dHVyZS82ZGM0OWM2OWM0NGMyOWMyNWM2OWM0NGMyOWMyNWM2OWM0NGMyOWMyNWM2OWM0NGMyOWMyNWM2OWMifX19"
+      name: "&7&lComuns"
+      lore:
+        - "&7Skins para todos"
+        - "&7os jogadores"
+        - ""
+        - "&eClique para ver"
+    voltar:
+      slot: 49
+      material: "BARRIER"
+      name: "&c&lVoltar"
+      lore:
+        - "&7Clique para fechar"
